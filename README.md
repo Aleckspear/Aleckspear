@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python 3 entry level projects and assist in data analysis projects that are ongoing.
 - 📫 Reach me at aleckspear@gmail.com or through my github account Aleckspear . This is all very new to me so I would appreciate tips, criticism and recommendations.
 
-Thank you for reading!
+Thank you for reading, let`s code!
 Cheers,
 Alecks
 
